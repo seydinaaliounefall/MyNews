@@ -1,0 +1,2 @@
+# MyNews
+Training React Native
